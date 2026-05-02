@@ -62,7 +62,7 @@ const feekar = {
 
 ---
 
-##### 🐾 Contribution Pacman
+##### 🐾 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/feekar-bit/feekar-bit/output/pacman-contribution-graph-dark.svg">
