@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=500&lines=Hi+there%2C+I'm+Feekar+%F0%9F%91%8B;Full+Stack+Developer;Laravel+%7C+React+%7C+TypeScript;Building+clean+%26+elegant+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=500&lines=Hello+World%2C+I'm+Zulfikar+%F0%9F%91%8B;Full+Stack+Developer;Laravel+%7C+React+%7C+TypeScript;Building+clean+%26+elegant+code" alt="Typing SVG" />
 
 <br/>
 
@@ -16,11 +16,11 @@
 
 ---
 
-## 🧑‍💻 About Me
+##### 🧑‍💻 About Me
 
 ```typescript
 const feekar = {
-  role     : "Full Stack Developer",
+  role     : "Web Development, Full Stack Developer",
   stack    : ["Laravel", "React", "TypeScript", "Tailwind CSS"],
   passion  : "Crafting clean, scalable & elegant web applications",
   currently: "Building awesome things on the web 🚀",
@@ -30,7 +30,7 @@ const feekar = {
 
 ---
 
-## 🛠️ Tech Stack
+##### 🛠️ Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
@@ -52,17 +52,7 @@ const feekar = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=feekar-bit&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&rank_icon=github" alt="GitHub Stats" height="180"/>
-
-&nbsp;&nbsp;
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feekar-bit&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&langs_count=8" alt="Top Languages" height="180"/>
-
-</div>
+##### 📊 GitHub Stats
 
 <div align="center">
 
@@ -72,7 +62,7 @@ const feekar = {
 
 ---
 
-## 🐾 Contribution Graph
+##### 🐾 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/feekar-bit/feekar-bit/output/pacman-contribution-graph-dark.svg">
@@ -82,7 +72,7 @@ const feekar = {
 
 ---
 
-## 🐍 Contribution Snake
+##### 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/feekar-bit/feekar-bit/output/snake.svg" alt="Snake animation" />
 
