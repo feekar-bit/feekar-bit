@@ -21,7 +21,7 @@
 ```typescript
 const feekar = {
   role     : "Web Development, Full Stack Developer",
-  stack    : ["Laravel", "React", "TypeScript", "Tailwind CSS"],
+  stack    : ["Laravel", "React", "Bootstrap", "Tailwind CSS"],
   passion  : "Crafting clean, scalable & elegant web applications",
   currently: "Building awesome things on the web 🚀",
   contact  : "github.com/feekar-bit",
